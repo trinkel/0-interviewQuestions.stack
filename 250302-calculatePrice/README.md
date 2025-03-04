@@ -23,6 +23,6 @@ calculatePrice('2025-04-01', '2025-04-15', 75);  // No discount (visit after clo
 
 ## The work
 
-I'd like to say the equation has been banging around inside my head just waiting to get out since high school algebra, but that would be a lie.
+I'd like to say the equation has been banging around inside my head since high school algebra, but that would be a lie.
 
-Temporal will be nice though. It's a bit sad that dealing with date formats for the proof was more work than than figuring out the discount 🤣
+Temporal will be nice. It's a bit sad that dealing with date formats for the proof (see the repo) was more work than than figuring out the discount 🤣 (https://github.com/trinkel/0-interviewQuestions.stack/blob/main/250302-calculatePrice/calculatePrice.ts)
