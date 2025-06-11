@@ -19,4 +19,8 @@ isValidTrafficSequence([])
 
 ## Comment
 
-A few loops around the light and were golden.
+A few loops around the light and we're golden.
+
+## Git Repo Permalink
+
+[validTrafficSequence](https://github.com/trinkel/0-interviewQuestions.stack/tree/0c8585f5d233abaef34a64d04eef06e8680c4a01/250610-validTrafficSeq)
